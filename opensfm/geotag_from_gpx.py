@@ -34,7 +34,7 @@ except ImportError:
 
 
 """
-(source: https://github.com/mapillary/mapillary_tools)
+(source: https://github.com/mrgulrez/mrgulrez_tools)
 
 
 Script for geotagging images using a gpx file from an external GPS.

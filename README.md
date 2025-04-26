@@ -1,4 +1,4 @@
-OpenSfM ![Docker workflow](https://github.com/mapillary/opensfm/workflows/Docker%20CI/badge.svg)
+OpenSfM ![Docker workflow](https://github.com/mrgulrez/opensfm/workflows/Docker%20CI/badge.svg)
 =======
 
 ## Overview
@@ -8,7 +8,7 @@ OpenSfM is a Structure from Motion library written in Python. The library serves
   <img src="https://opensfm.org/docs/_images/berlin_viewer.jpg" />
 </p>
 
-Checkout this [blog post with more demos](http://blog.mapillary.com/update/2014/12/15/sfm-preview.html)
+Checkout this [blog post with more demos](http://blog.mrgulrez.com/update/2014/12/15/sfm-preview.html)
 
 
 ## Getting Started

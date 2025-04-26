@@ -9,7 +9,7 @@ Download
 
 OpenSfM code is available at Github_.  The simplest way to get the code is to clone the repository and its submodules with::
 
-    git clone --recursive https://github.com/mapillary/OpenSfM
+    git clone --recursive https://github.com/mrgulrez/OpenSfM
 
 If you already have the code or you downloaded a release_, make sure to update the submodules with::
 
@@ -33,7 +33,7 @@ Python dependencies can be installed with::
 Installing dependencies on Ubuntu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-See this `Dockerfile <https://github.com/mapillary/OpenSfM/blob/main/Dockerfile>`_ for the commands to install all dependencies on Ubuntu 20.04.
+See this `Dockerfile <https://github.com/mrgulrez/OpenSfM/blob/main/Dockerfile>`_ for the commands to install all dependencies on Ubuntu 20.04.
 
 Installing dependencies on Fedora
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,8 +130,8 @@ To build the documentation and browse it locally use::
 and browse `http://localhost:8000/ <http://localhost:8000/>`_
 
 
-.. _Github: https://github.com/mapillary/OpenSfM
-.. _release: https://github.com/mapillary/OpenSfM/releases
+.. _Github: https://github.com/mrgulrez/OpenSfM
+.. _release: https://github.com/mrgulrez/OpenSfM/releases
 .. _OpenCV: http://opencv.org/
 .. _OpenCV Contrib: https://github.com/itseez/opencv_contrib
 .. _NumPy: http://www.numpy.org/

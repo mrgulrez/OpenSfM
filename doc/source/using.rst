@@ -33,7 +33,7 @@ When done, exit the container by pressing Ctrl+d. The model generated will be av
 Viewer setup
 ''''''''''''
 
-Download the viewer dependencies (`mapillary-js <https://github.com/mapillary/mapillary-js>`_, `gl-matrix <https://github.com/toji/gl-matrix>`_, `dat.gui <https://github.com/dataarts/dat.gui>`_) from npm by running::
+Download the viewer dependencies (`mrgulrez-js <https://github.com/mrgulrez/mrgulrez-js>`_, `gl-matrix <https://github.com/toji/gl-matrix>`_, `dat.gui <https://github.com/dataarts/dat.gui>`_) from npm by running::
 
     ./viewer/node_modules.sh
 

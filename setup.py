@@ -65,11 +65,11 @@ setuptools.setup(
     description="A Structure from Motion library",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/mapillary/OpenSfM",
+    url="https://github.com/mrgulrez/OpenSfM",
     project_urls={
         "Documentation": "https://docs.opensfm.org/",
     },
-    author="Mapillary",
+    author="mrgulrez",
     license="BSD",
     packages=setuptools.find_packages(),
     scripts=[
