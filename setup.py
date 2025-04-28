@@ -69,7 +69,7 @@ setuptools.setup(
     project_urls={
         "Documentation": "https://docs.opensfm.org/",
     },
-    author="mrgulrez",
+    author="Mapillary",
     license="BSD",
     packages=setuptools.find_packages(),
     scripts=[
